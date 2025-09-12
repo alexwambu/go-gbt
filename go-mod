@@ -1,4 +1,4 @@
-module github.com/yourname/go-gbt
+module github.com/alexwambu/go-gbt
 
 go 1.22
 
