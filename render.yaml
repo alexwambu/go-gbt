@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: gbtnetwork
+    env: docker
+    plan: free
+    autoDeploy: true
+    startCommand: "./beth --datadir ./data --networkid 999 --http --http.addr 0.0.0.0 --http.port 9636 --http.api eth,net,web3,personal,miner"
+    ports:
+      - port: 9636
+        protocol: tcp
