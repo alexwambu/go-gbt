@@ -4,8 +4,5 @@ services:
     env: docker
     plan: free
     autoDeploy: true
-    buildCommand: ""
-    startCommand: "./gbtnode"
-    ports:
-      - port: 9636
-        protocol: tcp
+    healthCheckPath: /
+
