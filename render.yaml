@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: gbtnetwork
+    env: docker
+    plan: free
+    autoDeploy: true
+    buildCommand: ""
+    startCommand: "./gbtnode"
+    ports:
+      - port: 9636
+        protocol: tcp
+    envVars:
+      - key: RPC_URL
+        value: http://GBTNetwork:9636
