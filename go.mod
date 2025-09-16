@@ -1,4 +1,4 @@
-module github.com/alexwambu/GBTNetwork
+module github.com/alexwambu/go-gbt
 
 go 1.22
 
@@ -8,3 +8,4 @@ require (
     github.com/ethereum/go-rlp v0.3.0
     github.com/ethereum/go-verkle v0.1.0
 )
+
