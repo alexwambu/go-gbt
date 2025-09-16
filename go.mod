@@ -1,7 +1,10 @@
-module github.com/alexwambu/go-gbt
+module github.com/alexwambu/GBTNetwork
 
 go 1.22
 
 require (
-    github.com/ethereum/go-ethereum v1.14.9
+    github.com/decred/dcrd/crypto v1.1.3
+    github.com/holiman/uint256 v1.2.0
+    github.com/ethereum/go-rlp v0.3.0
+    github.com/ethereum/go-verkle v0.1.0
 )
