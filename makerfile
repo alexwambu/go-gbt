@@ -1,0 +1,5 @@
+build:
+	go build -o beth ./cmd/gbt
+
+run:
+	./beth
