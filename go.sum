@@ -1,5 +1,0 @@
-github.com/ethereum/go-ethereum v1.14.9 h1:JYP9F0k6j1F8ZVbGJeqw0ubDTsDLoAayKy1a8QhDnPc=
-github.com/ethereum/go-ethereum v1.14.9/go.mod h1:bt8uTQzMQw2C6yxDE7YtF+Jw3Kz1kOeVr9MxU6CjzXU=
-
-golang.org/x/crypto v0.26.0 h1:o4ux5P9cOOk6tT4kYXisvH2wLJwLyL3tmmVRtq9kU+c=
-golang.org/x/crypto v0.26.0/go.mod h1:MR2lMEyUrT6UqD7HO4mGf96UBaF3zC2bGxByr0lqRBA=
