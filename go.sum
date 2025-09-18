@@ -1,0 +1,8 @@
+github.com/ethereum/go-ethereum v1.14.9 h1:o3cPg8/4ZztL5LJ8GkNlgwz/ZRjLz7eW+wXmLtfOHzY=
+github.com/ethereum/go-ethereum v1.14.9/go.mod h1:gPp2kDFl9YjBEnHPZKtkhjXq4SYAOk5+jb8i5VzzZf8=
+
+golang.org/x/crypto v0.23.0 h1:YMZG+3N24f6z2XDzxxa3Ej2JwI1jHjDU3oPR9ijVYkk=
+golang.org/x/crypto v0.23.0/go.mod h1:Dy9qgdPR3dXYjh7msfQ9R+UuV2PXrF7Ef/zh1W0z0mA=
+
+github.com/shirou/gopsutil v3.23.11+incompatible h1:bbFylTbGnBNNLhDyWmNwZoEUsdaMrbCsgjj/7FslSDo=
+github.com/shirou/gopsutil v3.23.11+incompatible/go.mod h1:5b4leO9MAQ+OIjFEzjmV5xD4y2oEiA8BLYjJGnS16W8=
