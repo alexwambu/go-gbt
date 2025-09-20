@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: gbtnetwork
+    env: docker
+    plan: free
+    autoDeploy: true
+    dockerfilePath: ./Dockerfile
+    startCommand: "/usr/local/bin/beth"
+    envVars:
+      - key: DATADIR
+        value: /root/data
