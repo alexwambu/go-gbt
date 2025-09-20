@@ -1,0 +1,2 @@
+docker build -t gbt-network .
+docker run -p 9636:9636 gbt-network
