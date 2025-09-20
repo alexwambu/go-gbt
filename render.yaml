@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: gbt-network
+    env: docker
+    plan: starter
+    dockerfilePath: ./Dockerfile
+    envVars:
+      - key: RPC_URL
+        value: http://GBTNetwork:9636
